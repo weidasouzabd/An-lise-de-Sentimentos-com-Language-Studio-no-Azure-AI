@@ -1,1 +1,12 @@
+##Speech to Text (Reconhecimento de Fala)
+No Speech Studio:
+Escolha “Speech to Text”.
+Faça upload de um arquivo de áudio ou grave diretamente.
+Configure idioma, modelo e parâmetros.
+Execute a transcrição e salve o resultado.
 
+##Text to Speech (Síntese de Voz)
+No Speech Studio:
+Escolha “Text to Speech”.
+Insira um texto e selecione características da voz (idioma, gênero, etc.).
+Gere o áudio, ouça e faça download.
